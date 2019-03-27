@@ -434,7 +434,7 @@
 				DEVELOPMENT_TEAM = C2V259WG54;
 				INFOPLIST_FILE = NSDateFormatter/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = banggood.NSDateFormatter;
+				PRODUCT_BUNDLE_IDENTIFIER = cs.NSDateFormatter;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -448,7 +448,7 @@
 				DEVELOPMENT_TEAM = C2V259WG54;
 				INFOPLIST_FILE = NSDateFormatter/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = banggood.NSDateFormatter;
+				PRODUCT_BUNDLE_IDENTIFIER = cs.NSDateFormatter;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -462,7 +462,7 @@
 				DEVELOPMENT_TEAM = C2V259WG54;
 				INFOPLIST_FILE = NSDateFormatterTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = banggood.NSDateFormatterTests;
+				PRODUCT_BUNDLE_IDENTIFIER = cs.NSDateFormatterTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/NSDateFormatter.app/NSDateFormatter";
@@ -477,7 +477,7 @@
 				DEVELOPMENT_TEAM = C2V259WG54;
 				INFOPLIST_FILE = NSDateFormatterTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = banggood.NSDateFormatterTests;
+				PRODUCT_BUNDLE_IDENTIFIER = cs.NSDateFormatterTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/NSDateFormatter.app/NSDateFormatter";
@@ -491,7 +491,7 @@
 				DEVELOPMENT_TEAM = C2V259WG54;
 				INFOPLIST_FILE = NSDateFormatterUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = banggood.NSDateFormatterUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = cs.NSDateFormatterUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_TARGET_NAME = NSDateFormatter;
@@ -505,7 +505,7 @@
 				DEVELOPMENT_TEAM = C2V259WG54;
 				INFOPLIST_FILE = NSDateFormatterUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = banggood.NSDateFormatterUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = cs.NSDateFormatterUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_TARGET_NAME = NSDateFormatter;
